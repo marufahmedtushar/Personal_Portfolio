@@ -1177,10 +1177,34 @@ footer .credits a {
   border-radius: .3rem;
 }
 
+
+
+
+#projects .container .row .col-md-4 .service-box .service-ico img{
+    height: 150px;
+    width: 150px;
+    margin-left: 80px;
+
+  }
+
+
+
+
+
+
+@media (min-width: 500px) {
+  
+  
+
+}
+
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
   }
+
+
+
 }
 
 @media (min-width: 767px) {
@@ -1244,6 +1268,8 @@ footer .credits a {
   .box-comments .list-comments .comment-author {
     font-size: 1.5rem;
   }
+
+
 }
 
 @media (min-width: 992px) {
